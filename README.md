@@ -4,8 +4,11 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning-/-preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory_data_analysis_(eda))
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Results/Findings](#resultsfindings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Project Overview
 This data analysis project aims to provide insight into the daily performance of a call center in order to understand customer sentiment. By examining various aspects of customer interactions, such as sentiment type, call duration, response time, and reasons for calling, we aim to provide actionable insights that can help improve the efficiency of the call center and enhance customer satisfaction
