@@ -60,5 +60,3 @@ Based on the analysis, we recommend the following actions:
 Here are five concise points outlining the limitations of the project:
 1. Temporal Scope: The analysis is based on data from a single month (October 2020), limiting the ability to identify long-term trends, seasonal variations, or the impact of external factors over time.
 2. Lack of Demographic Context: The absence of demographic information (e.g., age, gender, income) limited the analysis and made it difficult to understand how different customer groups may experience and respond to call center interactions.
-
-
