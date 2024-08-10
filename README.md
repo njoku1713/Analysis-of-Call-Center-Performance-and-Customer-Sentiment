@@ -13,6 +13,8 @@
 ### Project Overview
 This data analysis project aims to provide insight into the daily performance of a call center in order to understand customer sentiment. By examining various aspects of customer interactions, such as sentiment type, call duration, response time, and reasons for calling, we aim to provide actionable insights that can help improve the efficiency of the call center and enhance customer satisfaction
 
+![Capture](https://github.com/user-attachments/assets/b6f7d49a-2cbe-4e8f-a978-bcef6cca49c6)
+
 ### Data Source
 Calls Data: The primary dataset used for this analysis is the "call_center.csv", containing detailed information about each call made by customers in the month of October 2020.
 
